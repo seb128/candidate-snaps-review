@@ -1,0 +1,37 @@
+name: Report new candidates
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Review new candidates
+        id: review
+        run: |
+          ./candidate-snaps-review.py
+      - name: report
+        id: build-the-report
+        run:  |
+          for f in reports/*.json; do \
+             [ -f "$f" ] || continue; \
+             curl --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/issues \
+            --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+            --header 'content-type: application/json' \
+            --data-binary @$f \
+            --fail; \
+          done
+          if ! git diff --exit-code candidate.yml; then
+            echo "::set-output name=changes::true"
+          fi
+      - name: Update the vcs
+        if: steps.build-the-report.outputs.changes
+        run: |
+          git add candidate.yml
+          git config user.name "Update Bot"
+          git config user.email "actions@github.com"
+          git commit -m "Update the list of known candidate revisions"
+          git push
