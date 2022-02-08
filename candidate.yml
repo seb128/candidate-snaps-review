@@ -25,7 +25,7 @@ gnome-calculator:
 - 923
 gnome-calendar: []
 gnome-characters:
-- 771
+- 774
 gnome-chess:
 - 78
 gnome-clocks: []
@@ -46,7 +46,7 @@ gnome-robots: []
 gnome-sudoku:
 - 82
 gnome-system-monitor:
-- 175
+- 178
 gnome-taquin: []
 gnome-tetravex:
 - 279
