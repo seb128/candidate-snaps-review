@@ -194,7 +194,7 @@ lst_removed = sorted(list(set_removed))
 lst_added = sorted(list(set_added))
 
 if lst_changed:
-    if len(lst_changed) > 5 and not arg.detail:
+    if len(lst_changed) > 10 and not arg.detail:
         print(
             "Number of files changed (use -d to have the details)\n%s"
             % len(lst_changed)
@@ -208,7 +208,7 @@ else:
 print("")
 
 if lst_removed:
-    if len(lst_removed) > 5 and not arg.detail:
+    if len(lst_removed) > 10 and not arg.detail:
         print(
             "Number of files removed (use -d to have the details)\n%s"
             % len(lst_removed)
@@ -222,7 +222,7 @@ else:
 print("")
 
 if lst_added:
-    if len(lst_added) > 5 and not arg.detail:
+    if len(lst_added) > 10 and not arg.detail:
         print("Number of files added (use -d to have the details)\n%s" % len(lst_added))
     else:
         print("Files added")
