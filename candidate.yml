@@ -1,13 +1,10 @@
 cherrytree: []
-chromium:
-- 1912
+chromium: []
 eog: []
-epiphany:
-- 106
+epiphany: []
 evince:
 - 1011
-firefox:
-- 996
+firefox: []
 five-or-more: []
 gedit: []
 glade:
@@ -20,20 +17,17 @@ gnome-3-28-1804:
 - 166
 gnome-3-34-1804: []
 gnome-3-34-1804-sdk: []
-gnome-3-38-2004:
-- 99
+gnome-3-38-2004: []
 gnome-3-38-2004-sdk: []
 gnome-calculator:
 - 923
 gnome-calendar: []
 gnome-characters:
 - 774
-gnome-chess:
-- 78
+gnome-chess: []
 gnome-clocks: []
 gnome-dictionary: []
-gnome-font-viewer:
-- 38
+gnome-font-viewer: []
 gnome-hitori:
 - 314
 gnome-klotski: []
@@ -64,7 +58,6 @@ snap-store:
 - 539
 swell-foop: []
 tali: []
-thunderbird:
-- 188
+thunderbird: []
 ubuntu-desktop-installer:
 - 300
