@@ -67,6 +67,8 @@ for snapline in snaps.normalsnaps + snaps.specialsnaps:
     newchan = "candidate"
 
     store_revisions = set()
+    revisions_to_delete = set()
+
     src = snapline[0]
     if not snapline[1]:
         debug("skip %s since there is no stable build" % src)
@@ -91,13 +93,16 @@ for snapline in snaps.normalsnaps + snaps.specialsnaps:
             rev = store_versions_table[architecture][channel]
             store_revisions.add(rev)
 
+            if rev == store_versions_table[architecture][oldchan]:
+                debug("The new channel revision is identic, nothing to do")
+                if rev in candidatedict[src]:
+                    revisions_to_delete.add(rev)
+                continue
+
             if rev in candidatedict[src]:
                 debug("rev %s has already been handled" % rev)
                 continue
 
-            if rev == store_versions_table[architecture][oldchan]:
-                debug("The new channel revision is identic, nothing to do")
-                continue
             changes = subprocess.check_output(
                 ["./snapchanges.py", oldchan, newchan, src], encoding="UTF-8"
             )
@@ -120,9 +125,9 @@ for snapline in snaps.normalsnaps + snaps.specialsnaps:
                 json.dump(report, reportfile)
             candidatedict[src].append(rev)
 
-    revisions_to_delete = set()
     for rev in candidatedict[src]:
         if rev not in store_revisions:
+            debug("Remove %s rev %s which isn't in the store anymore" % (src, rev))
             revisions_to_delete.add(rev)
     for rev in revisions_to_delete:
         debug("Cleaning out outdated revision %s from the cache" % rev)
