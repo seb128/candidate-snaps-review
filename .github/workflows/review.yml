@@ -20,12 +20,13 @@ jobs:
           ls -l reports
           for f in reports/*.json; do \
              [ -f "$f" ] || continue; \
-             echo "$f" \
+             echo "$f"; \
              curl --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/issues \
             --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
             --header 'content-type: application/json' \
-            --data-binary @$f; \
+            --data-binary @$f \
+            --fail; \
           done
           echo "Check for changes to push to the vcs"
           if ! git diff --exit-code candidate.yml; then
