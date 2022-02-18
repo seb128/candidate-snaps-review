@@ -1,7 +1,8 @@
 cherrytree: []
 chromium: []
 eog: []
-epiphany: []
+epiphany:
+- 107
 evince:
 - 1011
 firefox: []
