@@ -1,14 +1,14 @@
 cherrytree: []
 chromium: []
 eog: []
-epiphany: []
+epiphany:
+- 107
 evince:
 - 1011
 firefox: []
 five-or-more: []
 gedit: []
-glade:
-- 424
+glade: []
 glimpse-editor: []
 gnome-2048: []
 gnome-3-26-1604:
@@ -30,7 +30,8 @@ gnome-dictionary: []
 gnome-font-viewer: []
 gnome-hitori:
 - 314
-gnome-klotski: []
+gnome-klotski:
+- 109
 gnome-logs: []
 gnome-mahjongg:
 - 165
@@ -60,4 +61,4 @@ swell-foop: []
 tali: []
 thunderbird: []
 ubuntu-desktop-installer:
-- 300
+- 303
