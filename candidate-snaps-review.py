@@ -115,9 +115,12 @@ for snapline in snaps.normalsnaps + snaps.specialsnaps:
             )
             report["body"] = (
                 "Reported changes between the current stable and the new candidate\n\n```\n"
-                + changes
+                + changes[:61000]
                 + "```\n"
             )
+
+            if len(changes) > 61000:
+                report["body"] += "<WARNING: The content of the report has been truncated to respect the github API limitations>"
 
             with open(
                 "reports/%s-%s-%s.json" % (src, architecture, rev), "w"
