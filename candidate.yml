@@ -1,5 +1,6 @@
 cherrytree: []
-chromium: []
+chromium:
+- 1942
 eog: []
 epiphany: []
 evince: []
