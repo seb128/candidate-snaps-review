@@ -1,6 +1,5 @@
 cherrytree: []
-chromium:
-- 1942
+chromium: []
 eog: []
 epiphany: []
 evince: []
@@ -50,7 +49,7 @@ gnome-taquin: []
 gnome-tetravex:
 - 279
 gtk-common-themes:
-- 1523
+- 1525
 iagno: []
 libreoffice: []
 lightsoff:
@@ -60,6 +59,7 @@ snap-store:
 - 539
 swell-foop: []
 tali: []
-thunderbird: []
+thunderbird:
+- 196
 ubuntu-desktop-installer:
-- 324
+- 327
