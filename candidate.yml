@@ -5,7 +5,8 @@ epiphany: []
 evince: []
 firefox: []
 five-or-more: []
-gedit: []
+gedit:
+- 655
 glade: []
 glimpse-editor: []
 gnome-2048: []
@@ -37,7 +38,7 @@ gnome-logs: []
 gnome-mahjongg:
 - 165
 gnome-mines:
-- 304
+- 307
 gnome-nibbles: []
 gnome-recipes: []
 gnome-robots: []
@@ -62,4 +63,4 @@ tali: []
 thunderbird:
 - 196
 ubuntu-desktop-installer:
-- 330
+- 332
