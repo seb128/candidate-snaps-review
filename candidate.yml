@@ -3,7 +3,8 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox: []
+firefox:
+- 1154
 five-or-more: []
 gedit:
 - 655
@@ -63,4 +64,4 @@ tali: []
 thunderbird:
 - 196
 ubuntu-desktop-installer:
-- 332
+- 334
