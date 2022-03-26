@@ -19,7 +19,8 @@ gnome-3-34-1804:
 gnome-3-34-1804-sdk: []
 gnome-3-38-2004:
 - 102
-gnome-3-38-2004-sdk: []
+gnome-3-38-2004-sdk:
+- 133
 gnome-calculator:
 - 923
 gnome-calendar: []
