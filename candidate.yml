@@ -4,7 +4,7 @@ eog: []
 epiphany: []
 evince: []
 firefox:
-- 1177
+- 1188
 five-or-more: []
 gedit:
 - 655
@@ -52,7 +52,7 @@ gnome-taquin: []
 gnome-tetravex:
 - 279
 gtk-common-themes:
-- 1525
+- 1533
 iagno: []
 libreoffice:
 - 249
@@ -64,4 +64,5 @@ swell-foop: []
 tali: []
 thunderbird:
 - 196
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 352
