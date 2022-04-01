@@ -1,5 +1,6 @@
 cherrytree: []
-chromium: []
+chromium:
+- 1951
 eog: []
 epiphany: []
 evince: []
@@ -55,7 +56,7 @@ gtk-common-themes:
 - 1533
 iagno: []
 libreoffice:
-- 249
+- 250
 lightsoff:
 - 152
 quadrapassel: []
@@ -65,4 +66,4 @@ tali: []
 thunderbird:
 - 196
 ubuntu-desktop-installer:
-- 352
+- 354
