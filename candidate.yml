@@ -1,6 +1,5 @@
 cherrytree: []
-chromium:
-- 1985
+chromium: []
 eog: []
 epiphany: []
 evince: []
@@ -64,4 +63,4 @@ swell-foop: []
 tali: []
 thunderbird: []
 ubuntu-desktop-installer:
-- 401
+- 403
