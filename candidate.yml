@@ -3,8 +3,7 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox:
-- 1300
+firefox: []
 five-or-more: []
 gedit:
 - 655
@@ -54,7 +53,8 @@ gnome-tetravex:
 gtk-common-themes:
 - 1534
 iagno: []
-libreoffice: []
+libreoffice:
+- 253
 lightsoff:
 - 152
 quadrapassel: []
@@ -62,5 +62,4 @@ snap-store: []
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer:
-- 403
+ubuntu-desktop-installer: []
