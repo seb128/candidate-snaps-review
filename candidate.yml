@@ -4,7 +4,8 @@ eog: []
 epiphany: []
 evince: []
 firefox: []
-five-or-more: []
+five-or-more:
+- 186
 gedit:
 - 655
 glade: []
@@ -54,7 +55,7 @@ gtk-common-themes:
 - 1534
 iagno: []
 libreoffice:
-- 253
+- 254
 lightsoff:
 - 152
 quadrapassel: []
