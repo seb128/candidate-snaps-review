@@ -3,11 +3,10 @@ chromium: []
 eog: []
 epiphany:
 - 113
-evince: []
-firefox:
-- 1351
-five-or-more:
-- 186
+evince:
+- 1017
+firefox: []
+five-or-more: []
 gedit:
 - 658
 glade: []
@@ -38,12 +37,14 @@ gnome-hitori:
 - 314
 gnome-klotski:
 - 109
-gnome-logs: []
+gnome-logs:
+- 112
 gnome-mahjongg:
 - 165
 gnome-mines:
 - 307
-gnome-nibbles: []
+gnome-nibbles:
+- 120
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku:
@@ -66,4 +67,4 @@ tali: []
 thunderbird:
 - 208
 ubuntu-desktop-installer:
-- 419
+- 423
