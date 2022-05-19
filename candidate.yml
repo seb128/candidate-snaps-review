@@ -20,9 +20,9 @@ gnome-3-34-1804:
 - 78
 gnome-3-34-1804-sdk: []
 gnome-3-38-2004:
-- 102
+- 106
 gnome-3-38-2004-sdk:
-- 133
+- 137
 gnome-calculator:
 - 923
 gnome-calendar: []
@@ -44,11 +44,12 @@ gnome-mahjongg:
 gnome-mines:
 - 307
 gnome-nibbles:
-- 120
+- 129
 gnome-recipes: []
-gnome-robots: []
+gnome-robots:
+- 114
 gnome-sudoku:
-- 82
+- 87
 gnome-system-monitor:
 - 178
 gnome-taquin: []
@@ -67,4 +68,4 @@ tali: []
 thunderbird:
 - 208
 ubuntu-desktop-installer:
-- 423
+- 427
