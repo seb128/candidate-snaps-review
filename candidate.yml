@@ -33,8 +33,7 @@ gnome-clocks: []
 gnome-dictionary:
 - 50
 gnome-font-viewer: []
-gnome-hitori:
-- 314
+gnome-hitori: []
 gnome-klotski:
 - 109
 gnome-logs:
@@ -52,20 +51,21 @@ gnome-sudoku:
 - 87
 gnome-system-monitor:
 - 178
-gnome-taquin: []
+gnome-taquin:
+- 30
 gnome-tetravex:
 - 279
-gtk-common-themes:
-- 1534
+gtk-common-themes: []
 iagno: []
 libreoffice: []
 lightsoff:
 - 152
 quadrapassel: []
 snap-store: []
-swell-foop: []
-tali: []
+swell-foop:
+- 102
+tali:
+- 350
 thunderbird:
-- 208
-ubuntu-desktop-installer:
-- 427
+- 210
+ubuntu-desktop-installer: []
