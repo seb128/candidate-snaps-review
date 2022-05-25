@@ -6,7 +6,7 @@ evince: []
 firefox: []
 five-or-more: []
 gedit:
-- 658
+- 661
 glade: []
 glimpse-editor: []
 gnome-2048: []
@@ -39,7 +39,8 @@ gnome-mahjongg:
 - 165
 gnome-mines:
 - 307
-gnome-nibbles: []
+gnome-nibbles:
+- 132
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku: []
@@ -53,7 +54,8 @@ iagno: []
 libreoffice: []
 lightsoff:
 - 152
-quadrapassel: []
+quadrapassel:
+- 478
 snap-store: []
 swell-foop: []
 tali:
@@ -61,4 +63,4 @@ tali:
 thunderbird:
 - 211
 ubuntu-desktop-installer:
-- 441
+- 443
