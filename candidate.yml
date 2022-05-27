@@ -50,7 +50,8 @@ gnome-taquin: []
 gnome-tetravex:
 - 279
 gtk-common-themes: []
-iagno: []
+iagno:
+- 29
 libreoffice: []
 lightsoff:
 - 152
@@ -60,6 +61,6 @@ swell-foop: []
 tali:
 - 350
 thunderbird:
-- 211
+- 213
 ubuntu-desktop-installer:
 - 449
