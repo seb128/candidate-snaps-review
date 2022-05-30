@@ -3,7 +3,8 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox: []
+firefox:
+- 1406
 five-or-more: []
 gedit:
 - 661
