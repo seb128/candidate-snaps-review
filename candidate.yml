@@ -3,8 +3,7 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox:
-- 1406
+firefox: []
 five-or-more: []
 gedit:
 - 661
@@ -18,8 +17,7 @@ gnome-3-28-1804:
 gnome-3-34-1804:
 - 78
 gnome-3-34-1804-sdk: []
-gnome-3-38-2004:
-- 106
+gnome-3-38-2004: []
 gnome-3-38-2004-sdk:
 - 137
 gnome-calculator:
@@ -62,4 +60,4 @@ tali:
 - 350
 thunderbird: []
 ubuntu-desktop-installer:
-- 459
+- 462
