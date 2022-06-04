@@ -50,7 +50,8 @@ gnome-tetravex:
 - 279
 gtk-common-themes: []
 iagno: []
-libreoffice: []
+libreoffice:
+- 256
 lightsoff:
 - 152
 quadrapassel: []
@@ -60,4 +61,4 @@ tali:
 - 350
 thunderbird: []
 ubuntu-desktop-installer:
-- 468
+- 472
