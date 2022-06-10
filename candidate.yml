@@ -51,8 +51,7 @@ gnome-tetravex:
 - 279
 gtk-common-themes: []
 iagno: []
-libreoffice:
-- 256
+libreoffice: []
 lightsoff:
 - 152
 quadrapassel: []
