@@ -50,7 +50,8 @@ gnome-system-monitor:
 gnome-taquin: []
 gnome-tetravex:
 - 279
-gtk-common-themes: []
+gtk-common-themes:
+- 1535
 iagno: []
 libreoffice: []
 lightsoff:
@@ -60,5 +61,6 @@ snap-store: []
 swell-foop: []
 tali:
 - 350
-thunderbird: []
+thunderbird:
+- 223
 ubuntu-desktop-installer: []
