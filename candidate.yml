@@ -31,8 +31,7 @@ gnome-dictionary:
 - 50
 gnome-font-viewer: []
 gnome-hitori: []
-gnome-klotski:
-- 109
+gnome-klotski: []
 gnome-logs: []
 gnome-mahjongg:
 - 165
@@ -56,8 +55,7 @@ lightsoff:
 quadrapassel: []
 snap-store: []
 swell-foop: []
-tali:
-- 350
+tali: []
 thunderbird:
 - 224
 ubuntu-desktop-installer: []
