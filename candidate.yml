@@ -56,6 +56,6 @@ quadrapassel: []
 snap-store: []
 swell-foop: []
 tali: []
-thunderbird:
-- 224
-ubuntu-desktop-installer: []
+thunderbird: []
+ubuntu-desktop-installer:
+- 511
