@@ -4,7 +4,7 @@ eog: []
 epiphany: []
 evince: []
 firefox:
-- 1589
+- 1610
 five-or-more: []
 gedit:
 - 661
@@ -43,8 +43,7 @@ gnome-nibbles:
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku: []
-gnome-system-monitor:
-- 178
+gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex:
 - 279
@@ -57,7 +56,5 @@ quadrapassel: []
 snap-store: []
 swell-foop: []
 tali: []
-thunderbird:
-- 236
-ubuntu-desktop-installer:
-- 572
+thunderbird: []
+ubuntu-desktop-installer: []
