@@ -4,7 +4,7 @@ eog: []
 epiphany: []
 evince: []
 firefox:
-- 1610
+- 1635
 five-or-more: []
 gedit:
 - 661
@@ -57,5 +57,4 @@ snap-store: []
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer:
-- 573
+ubuntu-desktop-installer: []
