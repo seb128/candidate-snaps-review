@@ -3,7 +3,8 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox: []
+firefox:
+- 1670
 five-or-more: []
 gedit:
 - 661
@@ -57,4 +58,5 @@ swell-foop: []
 tali: []
 thunderbird:
 - 240
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 576
