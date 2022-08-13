@@ -42,12 +42,15 @@ gnome-nibbles:
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku: []
-gnome-system-monitor: []
-gnome-taquin: []
+gnome-system-monitor:
+- 181
+gnome-taquin:
+- 33
 gnome-tetravex:
 - 279
 gtk-common-themes: []
-iagno: []
+iagno:
+- 32
 libreoffice: []
 lightsoff:
 - 152
@@ -58,4 +61,4 @@ tali: []
 thunderbird:
 - 241
 ubuntu-desktop-installer:
-- 584
+- 586
