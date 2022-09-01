@@ -1,6 +1,5 @@
 cherrytree: []
-chromium:
-- 2076
+chromium: []
 eog:
 - 706
 epiphany: []
@@ -28,7 +27,8 @@ gnome-calculator:
 gnome-calendar: []
 gnome-characters:
 - 774
-gnome-chess: []
+gnome-chess:
+- 81
 gnome-clocks:
 - 449
 gnome-dictionary:
@@ -42,7 +42,7 @@ gnome-logs: []
 gnome-mahjongg:
 - 165
 gnome-mines:
-- 307
+- 310
 gnome-nibbles:
 - 132
 gnome-recipes: []
@@ -63,10 +63,12 @@ libreoffice:
 - 258
 lightsoff:
 - 152
-quadrapassel: []
+quadrapassel:
+- 481
 snap-store: []
 swell-foop: []
 tali:
 - 353
-thunderbird: []
+thunderbird:
+- 249
 ubuntu-desktop-installer: []
