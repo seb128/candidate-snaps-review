@@ -2,7 +2,8 @@ cherrytree: []
 chromium: []
 eog:
 - 706
-epiphany: []
+epiphany:
+- 117
 evince: []
 firefox: []
 five-or-more: []
@@ -11,7 +12,8 @@ gedit:
 glade:
 - 426
 glimpse-editor: []
-gnome-2048: []
+gnome-2048:
+- 54
 gnome-3-26-1604:
 - 109
 gnome-3-28-1804:
@@ -19,7 +21,8 @@ gnome-3-28-1804:
 gnome-3-34-1804:
 - 78
 gnome-3-34-1804-sdk: []
-gnome-3-38-2004: []
+gnome-3-38-2004:
+- 119
 gnome-3-38-2004-sdk:
 - 140
 gnome-calculator:
@@ -32,19 +35,20 @@ gnome-chess:
 gnome-clocks:
 - 449
 gnome-dictionary:
-- 50
+- 53
 gnome-font-viewer:
 - 41
-gnome-hitori: []
+gnome-hitori:
+- 320
 gnome-klotski:
 - 110
 gnome-logs: []
 gnome-mahjongg:
-- 165
+- 168
 gnome-mines:
 - 310
 gnome-nibbles:
-- 132
+- 135
 gnome-recipes: []
 gnome-robots:
 - 117
@@ -55,14 +59,14 @@ gnome-system-monitor:
 gnome-taquin:
 - 33
 gnome-tetravex:
-- 279
+- 280
 gtk-common-themes: []
 iagno:
 - 32
 libreoffice:
 - 258
 lightsoff:
-- 152
+- 154
 quadrapassel:
 - 481
 snap-store: []
