@@ -12,8 +12,7 @@ gedit:
 glade:
 - 426
 glimpse-editor: []
-gnome-2048:
-- 54
+gnome-2048: []
 gnome-3-26-1604:
 - 109
 gnome-3-28-1804:
@@ -38,8 +37,7 @@ gnome-dictionary:
 - 53
 gnome-font-viewer:
 - 41
-gnome-hitori:
-- 320
+gnome-hitori: []
 gnome-klotski:
 - 110
 gnome-logs: []
