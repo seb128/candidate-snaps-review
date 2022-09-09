@@ -75,4 +75,5 @@ tali:
 - 353
 thunderbird:
 - 251
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 622
