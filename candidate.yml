@@ -6,7 +6,7 @@ epiphany: []
 evince:
 - 1020
 firefox:
-- 1842
+- 1849
 five-or-more: []
 gedit:
 - 664
@@ -63,8 +63,7 @@ gnome-tetravex:
 gtk-common-themes: []
 iagno:
 - 32
-libreoffice:
-- 259
+libreoffice: []
 lightsoff:
 - 154
 quadrapassel:
@@ -74,5 +73,5 @@ swell-foop: []
 tali:
 - 353
 thunderbird:
-- 251
+- 254
 ubuntu-desktop-installer: []
