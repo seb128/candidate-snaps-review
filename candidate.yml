@@ -1,5 +1,6 @@
 cherrytree: []
-chromium: []
+chromium:
+- 2098
 eog:
 - 706
 epiphany: []
@@ -29,7 +30,7 @@ gnome-calculator:
 - 923
 gnome-calendar: []
 gnome-characters:
-- 774
+- 781
 gnome-chess:
 - 81
 gnome-clocks:
