@@ -1,13 +1,12 @@
 cherrytree: []
 chromium:
-- 2098
+- 2105
 eog:
 - 706
 epiphany: []
 evince:
 - 1020
-firefox:
-- 1860
+firefox: []
 five-or-more: []
 gedit:
 - 664
