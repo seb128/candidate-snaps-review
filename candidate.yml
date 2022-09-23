@@ -2,10 +2,12 @@ cherrytree: []
 chromium: []
 eog:
 - 706
-epiphany: []
+epiphany:
+- 124
 evince:
 - 1020
-firefox: []
+firefox:
+- 1877
 five-or-more: []
 gedit:
 - 664
@@ -71,6 +73,5 @@ snap-store: []
 swell-foop: []
 tali:
 - 353
-thunderbird:
-- 254
+thunderbird: []
 ubuntu-desktop-installer: []
