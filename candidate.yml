@@ -6,8 +6,7 @@ epiphany:
 - 124
 evince:
 - 1020
-firefox:
-- 1883
+firefox: []
 five-or-more: []
 gedit:
 - 664
