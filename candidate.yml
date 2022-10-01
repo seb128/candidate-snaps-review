@@ -1,5 +1,6 @@
 cherrytree: []
-chromium: []
+chromium:
+- 2117
 eog:
 - 706
 epiphany:
@@ -21,10 +22,8 @@ gnome-3-28-1804:
 gnome-3-34-1804:
 - 78
 gnome-3-34-1804-sdk: []
-gnome-3-38-2004:
-- 119
-gnome-3-38-2004-sdk:
-- 140
+gnome-3-38-2004: []
+gnome-3-38-2004-sdk: []
 gnome-calculator:
 - 926
 gnome-calendar: []
@@ -73,4 +72,5 @@ swell-foop: []
 tali:
 - 353
 thunderbird: []
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 644
