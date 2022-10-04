@@ -1,19 +1,16 @@
 cherrytree: []
-chromium:
-- 2117
+chromium: []
 eog:
 - 706
 epiphany:
 - 124
 evince:
 - 1020
-firefox:
-- 1918
+firefox: []
 five-or-more: []
 gedit:
 - 664
-glade:
-- 426
+glade: []
 glimpse-editor: []
 gnome-2048: []
 gnome-3-26-1604:
@@ -30,48 +27,33 @@ gnome-calculator:
 gnome-calendar: []
 gnome-characters:
 - 781
-gnome-chess:
-- 81
+gnome-chess: []
 gnome-clocks:
 - 449
-gnome-dictionary:
-- 53
-gnome-font-viewer:
-- 41
+gnome-dictionary: []
+gnome-font-viewer: []
 gnome-hitori: []
-gnome-klotski:
-- 110
+gnome-klotski: []
 gnome-logs:
 - 115
-gnome-mahjongg:
-- 168
-gnome-mines:
-- 310
-gnome-nibbles:
-- 135
+gnome-mahjongg: []
+gnome-mines: []
+gnome-nibbles: []
 gnome-recipes: []
-gnome-robots:
-- 117
-gnome-sudoku:
-- 90
+gnome-robots: []
+gnome-sudoku: []
 gnome-system-monitor:
 - 181
-gnome-taquin:
-- 33
-gnome-tetravex:
-- 280
+gnome-taquin: []
+gnome-tetravex: []
 gtk-common-themes: []
-iagno:
-- 32
+iagno: []
 libreoffice: []
-lightsoff:
-- 154
-quadrapassel:
-- 481
+lightsoff: []
+quadrapassel: []
 snap-store: []
 swell-foop: []
-tali:
-- 353
+tali: []
 thunderbird: []
 ubuntu-desktop-installer:
-- 650
+- 652
