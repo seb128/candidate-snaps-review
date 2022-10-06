@@ -25,8 +25,7 @@ gnome-3-38-2004-sdk: []
 gnome-calculator:
 - 926
 gnome-calendar: []
-gnome-characters:
-- 781
+gnome-characters: []
 gnome-chess: []
 gnome-clocks:
 - 449
@@ -34,16 +33,14 @@ gnome-dictionary: []
 gnome-font-viewer: []
 gnome-hitori: []
 gnome-klotski: []
-gnome-logs:
-- 115
+gnome-logs: []
 gnome-mahjongg: []
 gnome-mines: []
 gnome-nibbles: []
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku: []
-gnome-system-monitor:
-- 181
+gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex: []
 gtk-common-themes: []
@@ -56,4 +53,4 @@ swell-foop: []
 tali: []
 thunderbird: []
 ubuntu-desktop-installer:
-- 652
+- 656
