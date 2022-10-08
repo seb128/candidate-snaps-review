@@ -54,4 +54,5 @@ swell-foop: []
 tali: []
 thunderbird:
 - 262
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 658
