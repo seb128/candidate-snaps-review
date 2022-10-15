@@ -1,6 +1,5 @@
 cherrytree: []
-chromium:
-- 2136
+chromium: []
 eog:
 - 706
 epiphany:
@@ -8,7 +7,7 @@ epiphany:
 evince:
 - 1020
 firefox:
-- 1954
+- 1969
 five-or-more: []
 gedit:
 - 664
@@ -47,8 +46,7 @@ gnome-taquin: []
 gnome-tetravex: []
 gtk-common-themes: []
 iagno: []
-libreoffice:
-- 260
+libreoffice: []
 lightsoff: []
 quadrapassel: []
 snap-store: []
