@@ -48,9 +48,9 @@ iagno: []
 libreoffice: []
 lightsoff: []
 quadrapassel: []
-snap-store: []
+snap-store:
+- 638
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer:
-- 665
+ubuntu-desktop-installer: []
