@@ -7,8 +7,7 @@ epiphany:
 - 124
 evince:
 - 1020
-firefox:
-- 2042
+firefox: []
 five-or-more: []
 gedit:
 - 664
@@ -57,4 +56,4 @@ tali: []
 thunderbird:
 - 269
 ubuntu-desktop-installer:
-- 677
+- 679
