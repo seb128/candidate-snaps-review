@@ -86,6 +86,10 @@ for snapline in snaps.normalsnaps + snaps.specialsnaps:
             debug("Limiting to amd64 for now")
             continue
 
+        if oldchan not in store_versions_table[architecture].keys():
+            debug("Ignoring since there is no version in %s" % oldchan)
+            continue
+
         for channel in store_versions_table[architecture]:
             if channel != newchan:
                 continue
