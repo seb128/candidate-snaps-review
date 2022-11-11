@@ -1,3 +1,4 @@
+cheese: []
 cherrytree: []
 chromium:
 - 2193
@@ -25,6 +26,9 @@ gnome-3-34-1804-sdk: []
 gnome-3-38-2004:
 - 125
 gnome-3-38-2004-sdk: []
+gnome-42-2204:
+- 42
+gnome-42-2204-sdk: []
 gnome-calculator:
 - 926
 gnome-calendar: []
@@ -32,6 +36,8 @@ gnome-characters: []
 gnome-chess: []
 gnome-clocks:
 - 449
+gnome-contacts:
+- 187
 gnome-dictionary: []
 gnome-font-viewer: []
 gnome-hitori: []
@@ -46,6 +52,8 @@ gnome-sudoku: []
 gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex: []
+gnome-text-editor:
+- 8
 gtk-common-themes: []
 iagno: []
 libreoffice: []
