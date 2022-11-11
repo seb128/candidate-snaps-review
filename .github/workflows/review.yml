@@ -30,7 +30,7 @@ jobs:
           done
           echo "Check for changes to push to the vcs"
           if ! git diff --exit-code candidate.yml; then
-            echo "::set-output name=changes::true"
+            echo "changes=true" >> $GITHUB_OUTPUT
           fi
       - name: Update the vcs
         if: steps.build-the-report.outputs.changes
