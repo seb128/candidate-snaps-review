@@ -1,6 +1,7 @@
 cheese: []
 cherrytree: []
-chromium: []
+chromium:
+- 2221
 eog:
 - 706
 epiphany:
@@ -53,7 +54,8 @@ gnome-text-editor:
 - 8
 gtk-common-themes: []
 iagno: []
-libreoffice: []
+libreoffice:
+- 263
 lightsoff: []
 quadrapassel: []
 snap-store:
