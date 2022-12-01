@@ -1,6 +1,7 @@
 cheese: []
 cherrytree: []
-chromium: []
+chromium:
+- 2229
 eog: []
 epiphany:
 - 130
@@ -12,7 +13,7 @@ glade: []
 glimpse-editor: []
 gnome-2048: []
 gnome-3-26-1604:
-- 109
+- 111
 gnome-3-28-1804:
 - 173
 gnome-3-34-1804:
@@ -52,8 +53,7 @@ gnome-text-editor:
 - 8
 gtk-common-themes: []
 iagno: []
-libreoffice:
-- 263
+libreoffice: []
 lightsoff: []
 quadrapassel: []
 snap-store: []
@@ -61,5 +61,4 @@ swell-foop: []
 tali: []
 thunderbird:
 - 278
-ubuntu-desktop-installer:
-- 698
+ubuntu-desktop-installer: []
