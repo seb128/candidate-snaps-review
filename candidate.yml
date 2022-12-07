@@ -1,7 +1,6 @@
 cheese: []
 cherrytree: []
-chromium:
-- 2238
+chromium: []
 eog: []
 epiphany: []
 evince: []
@@ -49,7 +48,7 @@ gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex: []
 gnome-text-editor:
-- 10
+- 12
 gtk-common-themes: []
 iagno: []
 libreoffice: []
