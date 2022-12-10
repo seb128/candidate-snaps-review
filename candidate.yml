@@ -5,7 +5,8 @@ chromium:
 eog: []
 epiphany: []
 evince: []
-firefox: []
+firefox:
+- 2186
 five-or-more: []
 gedit: []
 glade: []
@@ -14,13 +15,14 @@ gnome-2048: []
 gnome-3-26-1604:
 - 111
 gnome-3-28-1804:
-- 177
+- 185
 gnome-3-34-1804:
-- 84
+- 90
 gnome-3-34-1804-sdk: []
 gnome-3-38-2004:
-- 128
-gnome-3-38-2004-sdk: []
+- 134
+gnome-3-38-2004-sdk:
+- 163
 gnome-42-2204:
 - 53
 gnome-42-2204-sdk:
@@ -58,6 +60,7 @@ quadrapassel: []
 snap-store: []
 swell-foop: []
 tali: []
-thunderbird: []
+thunderbird:
+- 280
 ubuntu-desktop-installer:
 - 704
