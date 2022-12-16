@@ -4,7 +4,8 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox: []
+firefox:
+- 2211
 five-or-more: []
 gedit: []
 glade: []
@@ -48,8 +49,7 @@ gnome-sudoku: []
 gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex: []
-gnome-text-editor:
-- 12
+gnome-text-editor: []
 gtk-common-themes: []
 iagno: []
 libreoffice: []
@@ -59,5 +59,4 @@ snap-store: []
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer:
-- 712
+ubuntu-desktop-installer: []
