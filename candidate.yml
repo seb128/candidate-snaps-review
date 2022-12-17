@@ -4,8 +4,7 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox:
-- 2211
+firefox: []
 five-or-more: []
 gedit: []
 glade: []
