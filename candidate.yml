@@ -4,8 +4,7 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox:
-- 2277
+firefox: []
 five-or-more: []
 gedit: []
 glade: []
@@ -58,7 +57,5 @@ quadrapassel: []
 snap-store: []
 swell-foop: []
 tali: []
-thunderbird:
-- 288
-ubuntu-desktop-installer:
-- 738
+thunderbird: []
+ubuntu-desktop-installer: []
