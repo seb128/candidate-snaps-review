@@ -21,10 +21,9 @@ gnome-3-38-2004:
 - 134
 gnome-3-38-2004-sdk:
 - 166
-gnome-42-2204:
-- 56
+gnome-42-2204: []
 gnome-42-2204-sdk:
-- 64
+- 65
 gnome-calculator:
 - 926
 gnome-calendar: []
@@ -58,4 +57,5 @@ snap-store: []
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 742
