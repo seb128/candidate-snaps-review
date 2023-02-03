@@ -60,4 +60,5 @@ snap-store: []
 swell-foop: []
 tali: []
 thunderbird: []
-ubuntu-desktop-installer: []
+ubuntu-desktop-installer:
+- 762
