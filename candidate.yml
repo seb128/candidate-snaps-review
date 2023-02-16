@@ -4,8 +4,7 @@ chromium: []
 eog: []
 epiphany: []
 evince: []
-firefox:
-- 2342
+firefox: []
 five-or-more: []
 gedit: []
 glade: []
@@ -23,7 +22,7 @@ gnome-3-38-2004:
 gnome-3-38-2004-sdk:
 - 166
 gnome-42-2204:
-- 62
+- 65
 gnome-42-2204-sdk:
 - 78
 gnome-boxes:
@@ -54,13 +53,14 @@ gnome-tetravex: []
 gnome-text-editor: []
 gtk-common-themes: []
 iagno: []
-libreoffice: []
+libreoffice:
+- 267
 lightsoff: []
 quadrapassel: []
 snap-store: []
 swell-foop: []
 tali: []
 thunderbird:
-- 296
+- 297
 ubuntu-desktop-installer:
-- 772
+- 774
