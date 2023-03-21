@@ -5,7 +5,8 @@ eog: []
 epiphany:
 - 136
 evince: []
-firefox: []
+firefox:
+- 2482
 five-or-more: []
 gedit: []
 glade: []
