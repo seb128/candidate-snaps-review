@@ -1,9 +1,9 @@
 name: Report new candidates
 
 on:
-  schedule:
+  #schedule:
     # Daily for now
-    - cron: '9 7 * * *'
+  #  - cron: '9 7 * * *'
   workflow_dispatch:
 
 jobs:
